@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Stormtrooper",
+      "price": "60,00",
+      "img": "./image/Stormtrooper.png"
+    },
+    {
+      "id": "2",
+      "name": "GameBoy",
+      "price": "160,00",
+      "img": "./image/GameBoy.png"
+    },
+    {
+      "id": "3",
+      "name": "Stormtrooper",
+      "price": "60,00",
+      "img": "./image/Stormtrooper.png"
+    },
+    {
+      "id": "4",
+      "name": "GameBoy",
+      "price": "160,00",
+      "img": "./image/GameBoy.png"
+    },
+    {
+      "id": "5",
+      "name": "Stormtrooper",
+      "price": "60,00",
+      "img": "./image/Stormtrooper.png"
+    },
+    {
+      "id": "6",
+      "name": "GameBoy",
+      "price": "160,00",
+      "img": "./image/GameBoy.png"
+    },
+    {
+      "id": "7",
+      "name": "Stormtrooper",
+      "price": "60,00",
+      "img": "./image/Stormtrooper.png"
+    },
+    {
+      "id": "8",
+      "name": "GameBoy",
+      "price": "160,00",
+      "img": "./image/GameBoy.png"
+    },
+    {
+      "id": "9",
+      "name": "Stormtrooper",
+      "price": "60,00",
+      "img": "./image/Stormtrooper.png"
+    },
+    {
+      "id": "3ff8",
+      "name": "GameBoy",
+      "price": "160,00",
+      "img": "./image/GameBoy.png"
+    },
+    {
+      "id": "c616",
+      "name": "Stormtrooper",
+      "price": "60,00",
+      "img": "./image/Stormtrooper.png"
+    },
+    {
+      "id": "f488",
+      "name": "GameBoy",
+      "price": "160,00",
+      "img": "./image/GameBoy.png"
+    },
+    {
+      "id": "b6a3",
+      "name": "GameBoy",
+      "price": "160,00",
+      "img": "./image/GameBoy.png"
+    },
+    {
+      "id": "8b39",
+      "name": "GameBoy",
+      "price": "160,00",
+      "img": "./image/GameBoy.png"
+    },
+    {
+      "id": "b779",
+      "name": "GameBoy",
+      "price": "160,00",
+      "img": "./image/GameBoy.png"
+    },
+    {
+      "id": "7bc4",
+      "name": "GameBoy",
+      "price": "160,00",
+      "img": "./image/GameBoy.png"
+    },
+    {
+      "id": "89a6",
+      "name": "GameBoy",
+      "price": "160,00",
+      "img": "./image/GameBoy.png"
+    }
+  ]
+}
